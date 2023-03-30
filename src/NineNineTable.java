@@ -5,6 +5,7 @@ public class NineNineTable {
                 System.out.print("\t" + i + " * " + j + " = " + i * j);
             }
             System.out.println();
+            System.out.println("nice try!");
         }
     }
 }
